@@ -98,6 +98,7 @@ namespace MyClipboard
             this.area2.Size = new System.Drawing.Size(286, 94);
             this.area2.TabIndex = 2;
             this.area2.Text = "";
+            this.area2.MouseClick += new System.Windows.Forms.MouseEventHandler(this.area2_click);
             // 
             // area3
             // 
@@ -111,6 +112,7 @@ namespace MyClipboard
             this.area3.Size = new System.Drawing.Size(289, 94);
             this.area3.TabIndex = 3;
             this.area3.Text = "";
+            this.area3.MouseClick += new System.Windows.Forms.MouseEventHandler(this.area3_click);
             // 
             // label1
             // 
