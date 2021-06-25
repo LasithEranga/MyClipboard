@@ -139,5 +139,21 @@ namespace MyClipboard
             Thread.Sleep(100);
             SendKeys.SendWait("^{v}");
         }
+
+        private void area2_click(object sender, MouseEventArgs e)
+        {
+            Clipboard.SetData(DataFormats.Text, (Object)area2.Text);
+            SendKeys.Send("%{TAB}");
+            Thread.Sleep(100);
+            SendKeys.SendWait("^{v}");
+        }
+
+        private void area3_click(object sender, MouseEventArgs e)
+        {
+            Clipboard.SetData(DataFormats.Text, (Object)area2.Text);
+            SendKeys.Send("%{TAB}");
+            Thread.Sleep(100);
+            SendKeys.SendWait("^{v}");
+        }
     }
 }
