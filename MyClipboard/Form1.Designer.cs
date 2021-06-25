@@ -75,7 +75,7 @@ namespace MyClipboard
             // 
             this.area1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
             this.area1.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.area1.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.area1.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.area1.ForeColor = System.Drawing.SystemColors.ControlLight;
             this.area1.Location = new System.Drawing.Point(3, 2);
             this.area1.Name = "area1";
@@ -84,6 +84,7 @@ namespace MyClipboard
             this.area1.Size = new System.Drawing.Size(286, 97);
             this.area1.TabIndex = 1;
             this.area1.Text = "";
+            this.area1.MouseClick += new System.Windows.Forms.MouseEventHandler(this.area1_click);
             // 
             // area2
             // 
@@ -136,7 +137,7 @@ namespace MyClipboard
             this.delete1.BackColor = System.Drawing.Color.Gray;
             this.delete1.Image = ((System.Drawing.Image)(resources.GetObject("delete1.Image")));
             this.delete1.InitialImage = ((System.Drawing.Image)(resources.GetObject("delete1.InitialImage")));
-            this.delete1.Location = new System.Drawing.Point(290, 31);
+            this.delete1.Location = new System.Drawing.Point(290, 32);
             this.delete1.Name = "delete1";
             this.delete1.Size = new System.Drawing.Size(32, 32);
             this.delete1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -149,7 +150,7 @@ namespace MyClipboard
             this.pin1.BackColor = System.Drawing.Color.Gray;
             this.pin1.Image = global::MyClipboard.Properties.Resources.Pin;
             this.pin1.InitialImage = ((System.Drawing.Image)(resources.GetObject("pin1.InitialImage")));
-            this.pin1.Location = new System.Drawing.Point(290, 0);
+            this.pin1.Location = new System.Drawing.Point(290, 1);
             this.pin1.Name = "pin1";
             this.pin1.Size = new System.Drawing.Size(32, 32);
             this.pin1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -162,7 +163,7 @@ namespace MyClipboard
             this.delete2.BackColor = System.Drawing.Color.Gray;
             this.delete2.Image = ((System.Drawing.Image)(resources.GetObject("delete2.Image")));
             this.delete2.InitialImage = ((System.Drawing.Image)(resources.GetObject("delete2.InitialImage")));
-            this.delete2.Location = new System.Drawing.Point(290, 30);
+            this.delete2.Location = new System.Drawing.Point(290, 32);
             this.delete2.Name = "delete2";
             this.delete2.Size = new System.Drawing.Size(32, 32);
             this.delete2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -175,7 +176,7 @@ namespace MyClipboard
             this.pin2.BackColor = System.Drawing.Color.Gray;
             this.pin2.Image = ((System.Drawing.Image)(resources.GetObject("pin2.Image")));
             this.pin2.InitialImage = ((System.Drawing.Image)(resources.GetObject("pin2.InitialImage")));
-            this.pin2.Location = new System.Drawing.Point(290, -1);
+            this.pin2.Location = new System.Drawing.Point(290, 1);
             this.pin2.Name = "pin2";
             this.pin2.Size = new System.Drawing.Size(32, 32);
             this.pin2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -208,7 +209,7 @@ namespace MyClipboard
             this.delete3.BackColor = System.Drawing.Color.Gray;
             this.delete3.Image = ((System.Drawing.Image)(resources.GetObject("delete3.Image")));
             this.delete3.InitialImage = ((System.Drawing.Image)(resources.GetObject("delete3.InitialImage")));
-            this.delete3.Location = new System.Drawing.Point(290, 31);
+            this.delete3.Location = new System.Drawing.Point(290, 32);
             this.delete3.Name = "delete3";
             this.delete3.Size = new System.Drawing.Size(32, 32);
             this.delete3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -221,7 +222,7 @@ namespace MyClipboard
             this.pin3.BackColor = System.Drawing.Color.Gray;
             this.pin3.Image = ((System.Drawing.Image)(resources.GetObject("pin3.Image")));
             this.pin3.InitialImage = ((System.Drawing.Image)(resources.GetObject("pin3.InitialImage")));
-            this.pin3.Location = new System.Drawing.Point(290, 0);
+            this.pin3.Location = new System.Drawing.Point(290, 1);
             this.pin3.Name = "pin3";
             this.pin3.Size = new System.Drawing.Size(32, 32);
             this.pin3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;

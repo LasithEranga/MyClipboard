@@ -13,3 +13,4 @@ C:\Users\Lasith\Desktop\Clipboard\MyClipboard\MyClipboard\obj\Debug\netcoreapp3.
 C:\Users\Lasith\Desktop\Clipboard\MyClipboard\MyClipboard\obj\Debug\netcoreapp3.1\MyClipboard.pdb
 C:\Users\Lasith\Desktop\Clipboard\MyClipboard\MyClipboard\obj\Debug\netcoreapp3.1\MyClipboard.genruntimeconfig.cache
 C:\Users\Lasith\Desktop\Clipboard\MyClipboard\MyClipboard\obj\Debug\netcoreapp3.1\MyClipboard.Properties.Resources.resources
+C:\Users\Lasith\Desktop\Clipboard\MyClipboard\MyClipboard\obj\Debug\netcoreapp3.1\MyClipboard.csproj.AssemblyReference.cache
