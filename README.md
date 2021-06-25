@@ -2,6 +2,19 @@
 A clipboard application for older windows versions not having clipboard service.
 
 # Screenshots
-![alt text](https://github.com/LasithEranga/MyClipboard/blob/master/MyClipboard3.png?raw=true)
-![alt text](https://github.com/LasithEranga/MyClipboard/blob/master/MyClipboard2.png?raw=true)
-![alt text](https://github.com/LasithEranga/MyClipboard/blob/master/MyClipboard1.png?raw=true)
+<table>
+  <tr>
+    <td>  
+      <img src=https://github.com/LasithEranga/MyClipboard/blob/master/Screenshots/MyClipboard1.png> 
+    </td>
+    <td> 
+       <img src=https://github.com/LasithEranga/MyClipboard/blob/master/Screenshots/MyClipboard2.png> 
+    </td>
+     <td> 
+       <img src=https://github.com/LasithEranga/MyClipboard/blob/master/Screenshots/MyClipboard3.png> 
+    </td>
+  </tr>
+  
+</table>
+
+
