@@ -5,6 +5,7 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -125,6 +126,18 @@ namespace MyClipboard
             }
         }
 
-        
+        private void area1_TextChanged(object sender, EventArgs e)
+        {
+            Clipboard.SetData(DataFormats.Text, (Object)area1.Text);
+            SendKeys.Send("%{TAB}");
+        }
+
+        private void area1_click(object sender, MouseEventArgs e)
+        {
+            Clipboard.SetData(DataFormats.Text, (Object)area1.Text);
+            SendKeys.Send("%{TAB}");
+            Thread.Sleep(100);
+            SendKeys.SendWait("^{v}");
+        }
     }
 }
