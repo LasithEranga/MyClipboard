@@ -1,0 +1,15 @@
+C:\Users\Lasith\Desktop\Clipboard\MyClipboard\MyClipboard\bin\Debug\netcoreapp3.1\MyClipboard.exe
+C:\Users\Lasith\Desktop\Clipboard\MyClipboard\MyClipboard\bin\Debug\netcoreapp3.1\MyClipboard.deps.json
+C:\Users\Lasith\Desktop\Clipboard\MyClipboard\MyClipboard\bin\Debug\netcoreapp3.1\MyClipboard.runtimeconfig.json
+C:\Users\Lasith\Desktop\Clipboard\MyClipboard\MyClipboard\bin\Debug\netcoreapp3.1\MyClipboard.runtimeconfig.dev.json
+C:\Users\Lasith\Desktop\Clipboard\MyClipboard\MyClipboard\bin\Debug\netcoreapp3.1\MyClipboard.dll
+C:\Users\Lasith\Desktop\Clipboard\MyClipboard\MyClipboard\bin\Debug\netcoreapp3.1\MyClipboard.pdb
+C:\Users\Lasith\Desktop\Clipboard\MyClipboard\MyClipboard\obj\Debug\netcoreapp3.1\MyClipboard.Form1.resources
+C:\Users\Lasith\Desktop\Clipboard\MyClipboard\MyClipboard\obj\Debug\netcoreapp3.1\MyClipboard.csproj.GenerateResource.cache
+C:\Users\Lasith\Desktop\Clipboard\MyClipboard\MyClipboard\obj\Debug\netcoreapp3.1\MyClipboard.AssemblyInfoInputs.cache
+C:\Users\Lasith\Desktop\Clipboard\MyClipboard\MyClipboard\obj\Debug\netcoreapp3.1\MyClipboard.AssemblyInfo.cs
+C:\Users\Lasith\Desktop\Clipboard\MyClipboard\MyClipboard\obj\Debug\netcoreapp3.1\MyClipboard.csproj.CoreCompileInputs.cache
+C:\Users\Lasith\Desktop\Clipboard\MyClipboard\MyClipboard\obj\Debug\netcoreapp3.1\MyClipboard.dll
+C:\Users\Lasith\Desktop\Clipboard\MyClipboard\MyClipboard\obj\Debug\netcoreapp3.1\MyClipboard.pdb
+C:\Users\Lasith\Desktop\Clipboard\MyClipboard\MyClipboard\obj\Debug\netcoreapp3.1\MyClipboard.genruntimeconfig.cache
+C:\Users\Lasith\Desktop\Clipboard\MyClipboard\MyClipboard\obj\Debug\netcoreapp3.1\MyClipboard.Properties.Resources.resources
